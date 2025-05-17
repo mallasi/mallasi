@@ -1,5 +1,5 @@
 <div align="center">
-    <img height="300" src="assets/photo.jpg" alt="Эстетика программирования">
+    <img height="300" src="assets/photo.jpg" alt="Эстетика программирования"/>
 </div>
 # Роман | Junior Developer
 
